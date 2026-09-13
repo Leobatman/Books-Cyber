@@ -1,0 +1,42 @@
+# Cybersecurity Books & Study Resources
+
+# Ignore all PDF, EPUB, MOBI book files (copyrighted material)
+*.pdf
+*.PDF
+*.epub
+*.mobi
+*.azw
+*.azw3
+*.djvu
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Node modules (if any tooling is added)
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
